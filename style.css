@@ -267,6 +267,14 @@ body {
     transform: translateX(-20px);
 }
 
+footer {
+  margin-top: 0 px;
+  text-align: center;
+  padding: 5px;
+  color: white;
+}
+
+
 @media only screen and (max-width: 940px){
     .menu-container{
         display: none;
