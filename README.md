@@ -1,7 +1,7 @@
-Codex
+# Codex
 Welcome to Codex! This repository contains the source code for a web application designed to showcase movies and series. It provides a user-friendly interface for browsing different categories, watching trailers, and discovering new releases.
 
-Features
+###Features
 
 - Responsive Design: The application is built with responsiveness in mind, ensuring a seamless experience across various devices and screen sizes.
 
@@ -13,7 +13,7 @@ Features
 
 - User Profile: Includes a dropdown menu for accessing user-specific options, such as personal data, password change, and credits.
 
-Technologies Used
+###Technologies Used
 
 - HTML: Markup language for structuring the web pages.
 
@@ -24,18 +24,18 @@ Technologies Used
 - JavaScript: Programming language for implementing interactive features and functionality.
   
 
-Getting Started
+##Getting Started
 
 You can access the page directly via this link: https://codex-andreone.netlify.app
 
 
-Additional Notes
+###Additional Notes
 
 This project utilizes Bootstrap for styling and layout, along with custom CSS for additional styling and responsiveness.
 
 JavaScript is used to enhance the user experience with interactive elements such as collapsible navigation and image carousels.
 
-Contributors
+###Contributors
 
 Andrea Guarneri - Creator and maintainer of Codex.
 
